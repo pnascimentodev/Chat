@@ -9,16 +9,16 @@ Esse é um projeto que utiliza:
 - [Documentação online referente a API Reference](https://firebase.google.com/docs/reference?hl=pt)
 - [Código puro em Flutter](https://docs.flutter.dev/) 
 
-## Configurando
+# Configurando
 1. Adicione firbease a este projeto e verifique o arquivo google-services.json e GoogleServices-Info.plist
 2. Agora execute o aplicativo
 <div align="center">
      <img align="center" alt="Rafa-pic" height="500" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/761216305403265044/1037914017571815435/ChatDesk.jpg">
  </div>
-## Obersrvações
+# Obersrvações
 Não possuo nenhuma das imagens utilizadas neste projeto.
 
-## Considerações finais
+# Considerações finais
 Quer me apoiar sem nenhum custo? Use meu projeto e faça com que ele seja reconhecido com as estrelas do GitHub, até a próxima! Tchau tchau!
 
 ## Onde pode me encontrar:
